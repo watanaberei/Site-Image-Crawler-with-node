@@ -67,5 +67,5 @@ const crawl = async ({ url }: { url: string }) => {
 };
 
 crawl({
-	url: "", // Add Site URL here
+	url: "https://www.instagram.com/goldenstatecoffee/", // Add Site URL here
 });
